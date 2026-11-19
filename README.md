@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/khnbutt118-dev/khnbutt118-dev/main/assets/medical-ai-banner.svg" width="100%" alt="Hassan Butt — Pharmacy meets Artificial Intelligence"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/khnbutt118-dev/synent-task4-csvdashboard-hassanbutt/main/assets/project-banner.svg" width="100%" alt="CSV ANALYTICS DASHBOARD — Interactive data exploration · Streamlit + Plotly"></p>
 <p align="center"><a href="https://github.com/khnbutt118-dev">← PROFILE</a> &nbsp;·&nbsp; <a href="https://hassanbuttportfolio.vercel.app/">PORTFOLIO</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/hassan-butt-ab0036334/">LINKEDIN</a></p>
 
 <p align="center"><img src="https://img.shields.io/badge/SYNENT-TASK%2004-087EAD?style=for-the-badge"><img src="https://img.shields.io/badge/STREAMLIT-INTERACTIVE%20APP-155E9A?style=for-the-badge"><img src="https://img.shields.io/badge/PLOTLY-6%20CHART%20TYPES-0B719E?style=for-the-badge"></p>
